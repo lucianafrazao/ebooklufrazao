@@ -71,7 +71,7 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
       align=left 
       margin=10 
       width=80 
-      src="./.github/assets/lufrazao.jpg"
+      src="./assets/lufrazao.jpg"
     />
     <p>&nbsp&nbsp&nbspLu Frazão<br>
     &nbsp&nbsp&nbsp
